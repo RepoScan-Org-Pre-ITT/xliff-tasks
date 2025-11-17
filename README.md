@@ -5,7 +5,7 @@ A set of MSBuild tasks and targets to automatically update xliff (.xlf) files fo
 ## Build Status
 
 |Windows x64 |
-|:------:|
+|:------:|vdv
 |[![Build Status][win-x64-build-badge]][win-x64-build]|
 
 ## Installing
