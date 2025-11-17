@@ -7,7 +7,7 @@ A set of MSBuild tasks and targets to automatically update xliff (.xlf) files fo
 |Windows x64 |
 |:------:|vdv
 |[![Build Status][win-x64-build-badge]][win-x64-build]|
-
+c
 ## Installing
 
 If you're using the [Arcade Toolset][arcade-toolset] then the `Microsoft.DotNet.XliffTasks` package is already pulled in, and enabled by default.
