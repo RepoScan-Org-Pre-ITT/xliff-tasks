@@ -69,3 +69,6 @@ For more information, contact @dotnet/dnceng on GitHub, or file an issue.
 [win-x64-build-badge]: https://dev.azure.com/dnceng/internal/_apis/build/status/dotnet/xliff-tasks/dotnet-xliff-tasks-official-ci?branchName=main
 [win-x64-build]: https://dev.azure.com/dnceng/internal/_build?definitionId=485&branchName=main
 [arcade-toolset]: https://github.com/dotnet/arcade
+
+
+<!-- Updated at 2026-09-06T14:53:39.929Z -->
